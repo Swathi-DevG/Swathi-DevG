@@ -7,9 +7,10 @@
 
 ### 🔧 Skills
 - C / C++
+- Data Structures
 - Python
 - Embedded Systems / STM32 
-- Linux
+- Linux Internals : System calls, Process
 - Git & GitHub
-- Communication Protocols : UART, I2C, SPI, CAN, RS485, Modbus, MQTT
+- Communication Protocols : UART, I2C, SPI, CAN, RS485, Modbus, MQTT, LoRa
 - Logical analyzers, Oscilloscope, Debugging, Schematic Reading
