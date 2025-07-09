@@ -3,8 +3,8 @@
 🔧 I'm a Embedded Firmware Engineer.
 
 🌱 Currently learning: FreeRTOS
-📫 How to reach me: www.linkedin.com/in/swati-gg-532974266
-https://leetcode.com/u/hEQaqPlfsa/
+- 📫 How to reach me: www.linkedin.com/in/swati-gg-532974266
+- https://leetcode.com/u/hEQaqPlfsa/
 
 ### 🔧 Skills
 - C / C++
